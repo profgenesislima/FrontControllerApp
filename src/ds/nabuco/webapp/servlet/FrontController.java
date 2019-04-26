@@ -10,9 +10,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import ds.nabuco.webapp.command.Command;
-import ds.nabuco.webapp.command.RegisterClientComand;
-import ds.nabuco.webapp.command.ReturnClientCommand;
+import ds.webapp.command.Command;
+import ds.webapp.command.RegisterClientComand;
+import ds.webapp.command.ReturnClientCommand;
 
 /**
  * Servlet implementation class FrontController

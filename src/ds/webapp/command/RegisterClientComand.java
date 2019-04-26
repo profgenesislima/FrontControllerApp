@@ -1,10 +1,10 @@
-package ds.nabuco.webapp.command;
+package ds.webapp.command;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import ds.nabuco.webapp.dao.ClientDAO;
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
+import ds.webapp.dao.ClientDAO;
 
 public class RegisterClientComand implements Command{
 

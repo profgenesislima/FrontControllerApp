@@ -1,6 +1,6 @@
-package ds.nabuco.webapp.dao;
+package ds.webapp.dao;
 
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
 
 public interface DAO<T> {
 

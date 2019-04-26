@@ -1,7 +1,7 @@
 package ds.nabuco.webapp.testdrive;
 
-import ds.nabuco.webapp.dao.ClientDAO;
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
+import ds.webapp.dao.ClientDAO;
 
 public class TestDAO {
 

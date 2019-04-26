@@ -1,4 +1,4 @@
-package ds.nabuco.webapp.model;
+package d.webapp.model;
 
 import java.io.Serializable;
 

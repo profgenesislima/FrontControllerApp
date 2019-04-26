@@ -1,10 +1,10 @@
-package ds.nabuco.webapp.dao;
+package ds.webapp.dao;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import ds.nabuco.webapp.dao.converter.GenericConverter;
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
+import ds.webapp.dao.converter.GenericConverter;
 import redis.clients.jedis.Jedis;
 
 public class ClientDAO implements DAO<Client> {

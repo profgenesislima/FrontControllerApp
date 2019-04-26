@@ -1,11 +1,11 @@
-package ds.nabuco.webapp.dao.converter;
+package ds.webapp.dao.converter;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
 import ds.nabuco.webapp.utils.ReflectionUtils;
 
 public class GenericConverter {

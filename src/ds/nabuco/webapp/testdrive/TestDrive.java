@@ -5,7 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
-import ds.nabuco.webapp.model.Client;
+import d.webapp.model.Client;
 
 
 
